@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Zachary Qian
 
-You can use the [editor on GitHub](https://github.com/qianzach/zacharyqian/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there, my name is Zachary Qian. I'm studying Applied Mathematics and Bioinformatics at UCLA. After graduation, I intend to pursue a PhD in Statistics or Biostatistics in hopes of furthering my passion in the quantitative sciences.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have worked on genetics problems with quantitative approaches, specifically in differential gene exprression, biomarker discovery from fMRI imaging, and other high-dimensional omics data.
 
-### Markdown
+I'm particularly interested in high-dimensional data, statistical imaging, and applications to both classical machine learning and deep learning. I am currently working as an undergraduate researcher with Dr. Richard Ahn in the Hoffmann Lab of the Institute for Quantitative and Computational Biosciences at UCLA, as well as with Dr. Jian Kang as a part of the University of Michigan's summer BDSI fellowship.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aside from my research, I enjoy playing hockey, hiking, walking my dog, and cheering on the Chicago Blackhawks, Cubs, and Bears.
 
-```markdown
-Syntax highlighted code block
+### CV
 
-# Header 1
-## Header 2
-### Header 3
+You can access my cv here
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qianzach/zacharyqian/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
